@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <nav className="w-full h-[100px] px-12 py-5 flex items-center justify-center mx-auto bg-white drop-shadow-md">
+    <nav className="w-full h-[100px] px-12 py-5 flex items-center justify-center mx-auto bg-white drop-shadow-sm">
        <div className="w-full h-full  max-w-5xl flex items-center justify-between">
           <span className='w-6/12'>
              <svg width="68" height="84" viewBox="0 0 82 84" fill="none" xmlns="http://www.w3.org/2000/svg">
